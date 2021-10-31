@@ -752,6 +752,16 @@
 * Country: USA
 * [_IMDb_](https://www.imdb.com/title/tt0065566/)
 
+#### Demon Seed 
+:star: Demon_Seed_Score
+
+> A scientist creates Proteus--an organic super computer with artificial intelligence which becomes obsessed with human beings, and in particular the creators wife.
+
+![Demon Seed](../assets/demon_seed.jpg)
+* Year: 1977
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0075931/)
+
 ### 5.5-5.9
 
 #### Jobs
